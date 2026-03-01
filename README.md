@@ -1,2 +1,2 @@
 # storebackend
-storebackend api with express andmongo and allows filter on pricestypes etc
+store backend api with express and mongodb and allows filter on prices types etc
